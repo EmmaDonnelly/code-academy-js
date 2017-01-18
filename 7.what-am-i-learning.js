@@ -10,7 +10,6 @@
 
 //Press Save & Submit Code to see an example of how JavaScript can be interactive!
 
-confirm('This is an example of using JS to create some interaction on a website.
-Click OK to continue!');
+confirm('This is an example of using JS to create some interaction on a website. Click OK to continue!');
 
 //This made a dialogue box pop up, and when OK was clicked "true" was returned
